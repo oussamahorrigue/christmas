@@ -2,6 +2,6 @@
 ### Responsive Christmas Website ⛄️
 
 
-  <a href="https://oussamahorrigue.github.io/christmas/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ryvilioninc.github.io/christmas/"><strong>➥ Live Demo</strong></a>
 
 ![preview img](/preview.png)
